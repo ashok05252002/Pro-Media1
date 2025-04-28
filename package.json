@@ -2,6 +2,7 @@
   "name": "hospital-parking-dashboard",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ashok05252002.github.io/Pro-Media1",
   "type": "module",
   "scripts": {
     "dev": "vite",
